@@ -1,0 +1,7 @@
+%dw 2.0
+
+type auto_1fd623f1_a887_4e87_b7bc_3710509f2c33_Output_Payload = {|
+  accountid: Any, 
+  message: Any
+|}
+
